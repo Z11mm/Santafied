@@ -173,6 +173,23 @@ var listOf = [
     link: "http://vinhthuan.com/upload//image/banh-mi-viet-nam.jpg"
   },
   {
+    id: "banh-xoai-cake",
+    name: "Banh Xoai Cake Pie",
+    description:
+      "Mango cake is cooked from ripe mangoes and dried, " +
+      " when eaten, it will create a sweet and sour feeling",
+    summary: [
+      {
+        makes: "1 pie",
+        prep: "30 min",
+        cooking: "20 min",
+        skill: "Easy"
+      }
+    ],
+    img: "http://gl.amthuc365.vn/uploads/i/Tin_Tuc/2015/15-7/0abanhxoai15.jpg",
+    link: "http://gl.amthuc365.vn/uploads/i/Tin_Tuc/2015/15-7/0abanhxoai15.jpg"
+  },
+  {
     id: "fish-soup",
     name: "Fishermans soup",
     description:
@@ -321,5 +338,23 @@ var listOf = [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Eggnog2.jpg/400px-Eggnog2.jpg",
     link:
       "https://www.jamieoliver.com/features/best-eggnog-recipe/"
+  },
+  {
+    id: "russian-tea-cake",
+    name: "Russian Tea Cake or Mexican Wedding Cookie",
+    description:
+      "My family's favorite christmas cookie! Light, sweet, full of nuts and coated in powdered sugar.",
+    summary: [
+      {
+        makes: "36",
+        prep: "15 min",
+        cooking: "12 -17 min",
+        skill: "Easy"
+      }
+    ],
+    img:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Russianteacakes.jpg/600px-Russianteacakes.jpg",
+    link:
+      "https://joyofbaking.com/Mexican%20Wedding%20Cakes.html"
   }
 ];
